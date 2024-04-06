@@ -1,21 +1,14 @@
-### <div >I'm Tobias, a Full Stack Developer 👨‍💻</div> 
+# <div align="center">I'm Tobias, a Full Stack Developer 👨‍💻</div> 
 
-<div >
+<div align="center">
 <img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" align="center" height="" width="500" />
 </div>  
-  
 
-  
-  
+<br/>
 
-- 🌱 I'm currently improving all my skills.  
-  
-
-- ❓ How to reach me tobias.dutra2009@gmail.com  
-  
-
-- ⚡ All of my projects are available at vercel.app
-  
+<div align="center">  🌱 I'm currently improving all my skills. </div> 
+<div align="center">   ❓ How to reach me tobias.dutra2009@gmail.com </div> 
+<div align="center">   ⚡ All of my projects are available at vercel.app </div> 
 
 <br/>  
 
