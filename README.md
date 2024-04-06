@@ -1,6 +1,6 @@
-### <div align="center">I'm Tobias, a Full Stack Developer 👨‍💻</div> 
+### <div >I'm Tobias, a Full Stack Developer 👨‍💻</div> 
 
-<div align="center">
+<div >
 <img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" align="center" height="" width="500" />
 </div>  
   
