@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://github.com/TobiasDutra/TobiasDutra/assets/109052055/25f2da5a-6a38-4b73-aa2f-fc8987972809" height="500" width="500" />
+  <img src="https://github.com/TobiasDutra/TobiasDutra/assets/109052055/25f2da5a-6a38-4b73-aa2f-fc8987972809" height="300" width="300" />
 </div>
 
 <br/>
