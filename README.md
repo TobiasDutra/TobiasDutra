@@ -1,8 +1,9 @@
 # <div align="center">I'm Tobias, a Full Stack Developer 👨‍💻</div> 
 
+<br/>
 <div align="center">
-<img src="https://cdna.artstation.com/p/assets/images/images/029/049/266/original/ricardo-braga-typing.gif?1596300272" align="center" height="" width="500" />
-</div>  
+  <img src="https://github.com/TobiasDutra/TobiasDutra/assets/109052055/25f2da5a-6a38-4b73-aa2f-fc8987972809" height="500" width="500" />
+</div>
 
 <br/>
 
@@ -10,7 +11,8 @@
 <div align="center">   ❓ How to reach me tobias.dutra2009@gmail.com </div> 
 <div align="center">   ⚡ All of my projects are available at vercel.app </div> 
 
-<br/>  
+<br/> 
+
 
 
 ## My Skill Set  
